@@ -6,8 +6,8 @@ to do list
     firebase hosting            <done>
     Get all the movies
 
-    BUILD 
-        Rows 
-        Banner 
-        Nav Bar 
-        trailer popups
+BUILD 
+    Rows 
+    Banner 
+    Nav Bar 
+    trailer popups
