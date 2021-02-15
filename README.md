@@ -1,9 +1,9 @@
 # ReactJs Neflix Clone 
 
 to do list 
-    TMDB api key (the movie database )  <done>
-    create-react-app           <done>
-    firebase hosting            <done>
+    ~TMDB api key (the movie database)~
+    ~create-react-app~    
+    ~firebase hosting~     
     Get all the movies
 
 BUILD 
