@@ -18,11 +18,8 @@ function Row({ title, fetchUrl,isLargeRow }) {
         fetchData();
     }, [fetchUrl])
     
-    console.table(movies)
-    
-    
     return (
-        <div>
+        <div className ="row">
             <h2 className="title">{title}</h2>
             <div className="row__posters">
             {movies.map(
