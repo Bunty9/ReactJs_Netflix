@@ -1,13 +1,14 @@
-# ReactJs Neflix Clone 
+# ReactJs Neflix Clone
 
-to do list 
-    ~TMDB api key (the movie database)~
-    ~create-react-app~    
-    ~firebase hosting~     
-    Get all the movies
+A Netflix clone built using React.
+It fetches the data from TMDB (The Movie Database) API.
+It also displays the movie trailers which is fetched from Youtube.
 
-BUILD 
-    Rows 
-    Banner 
-    Nav Bar 
-    trailer popups
+## Demo
+
+this app is currently hosted using firebase:
+https://reactjs-netflix-2000.web.app/
+
+## Author
+
+Bipin S C (Bunty9)
