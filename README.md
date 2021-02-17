@@ -1,6 +1,7 @@
 # ReactJs Neflix Clone
 
-A Netflix clone built using React.
+A Basic Netflix FrontEnd clone built using React.
+only the HomePage.
 It fetches the data from TMDB (The Movie Database) API.
 It also displays the movie trailers which is fetched from Youtube.
 
